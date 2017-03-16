@@ -16,7 +16,7 @@
 
 Download `letov.crx` file
 
-Go (chrome://extensions/)[Extensions tab]
+Go <a href="chrome://extensions/">chrome://extensions/</a> tab
 
 Drop `letov.crx` to page and press _Install_
 
